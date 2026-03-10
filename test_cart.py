@@ -9,9 +9,10 @@ driver.get("https://www.google.com")
 print("Google opened successfully")
 print("abc")
 ####
-
+print("1")
 time.sleep(3)
 driver.quit()
+
 
 
 
