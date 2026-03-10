@@ -8,11 +8,10 @@ driver = webdriver.Chrome()
 driver.get("https://www.google.com")
 print("Google opened successfully")
 print("abc")
-print("aaa")
-print("122")
-print("aaaaa")
+
 time.sleep(3)
 driver.quit()
+
 
 
 
